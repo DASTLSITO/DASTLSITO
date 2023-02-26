@@ -17,5 +17,9 @@ Currently working in personal projects to show my programming skills. Check out 
 <img width="400" height="auto" src="media/calculatorpage.png">
 
 2. Web App (Notes) [See page...](https://github.com/DASTLSITO/AppDeNotas)
+   <br>
+   An interactive note page creator capable to store your notes through sessions.
 
 <img width="400" height="auto" src="media/notasPreview.jpg">
+
+3.
