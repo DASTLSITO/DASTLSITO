@@ -21,5 +21,3 @@ Currently working in personal projects to show my programming skills. Check out 
    An interactive note page creator capable to store your notes through sessions.
 
 <img width="400" height="auto" src="media/notasPreview.jpg">
-
-3.
