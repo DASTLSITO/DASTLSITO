@@ -22,4 +22,4 @@ Currently working in personal projects to show my programming skills. Check out 
 
 <img width="400" height="auto" src="media/notasPreview.jpg">
 
-3. Hola
+3. Resolviendo merges
