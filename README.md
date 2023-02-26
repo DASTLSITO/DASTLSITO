@@ -1,7 +1,13 @@
-### Hi, I'm Eduardo, but you can call me Lalo ;)
+# Hi, there!
+
+<div align="right">
+
+# **Eduardo** || **_Lalo_**
+
+</div>
 
 ---
 
-just a web developer with no lavour experience looking for a job
+Just a Web Developer with no lavour experience looking for a job
 
-currently working in personal projects to show my programming skills. Check out my results ;D
+Currently working in personal projects to show my programming skills. Check out my results ;D -->
