@@ -6,7 +6,7 @@
 
 </div>
 
-Just a Web Developer with no lavour experience looking for a job
+Just a Web Developer who loves C#
 
 Currently working in personal projects to show my programming skills
 
