@@ -2,9 +2,9 @@
   <h1><b>Eduardo</b> — <i>Lalo</i></h1>
 </div>
 
-Web developer with a soft spot for C#. Back-end focused — architecture, design patterns, doing things properly instead of just making them work.
+Web developer who loves C#. Back-end focused — architecture, design patterns, doing things properly instead of just making them work.
 
-Lately I've been spending my time on my startup, SAT-NOW. It's not ready for the public eye, wait for it...
+Lately I've been spending my time on my startup, SAT-NOW, which it's not ready for the public eye, wait for it...
 
 Portfolio: still doesn't exist. Working on it (allegedly).
 
