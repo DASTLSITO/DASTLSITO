@@ -147,14 +147,11 @@ I also dedicate around **8 hours per week** to the **Computer Vision Laboratory*
 ### A little more about me
 
 ```text
-Main language       C#
+Favorite language   C#
 Favorite territory  Back-end
-Architecture        Clean Architecture
-Databases           PostgreSQL / SQL Server
-Containers          Docker
-OS                   Linux
+OS                  Debian 13
 Current obsession   SAT-NOW
-Portfolio            TODO (eventually™)
+Portfolio           TODO (eventually™)
 ```
 
 I enjoy building software that goes beyond *"it works"* — systems with clear boundaries, maintainable architecture, sensible abstractions, and code that hopefully won't make me hate myself six months later.
